@@ -128,9 +128,9 @@ h4 {
     }
     .knopka1 {
         position: absolute;
-        width: 100px;
+        width: 200px;
         height: 49px;
-        left: 622px;
+        left: 692px;
         top: 700px;
         color: rgb(0, 0, 0); /* цвет текста */
         text-decoration: none; /* убирать подчёркивание у ссылок */
@@ -142,20 +142,4 @@ h4 {
       } 
       .knopka1:hover { background: #34ece1bf; } /* при наведении курсора мышки */
       .knopka1:active { background: #34ece1bf;} /* при нажатии */
-    .knopka2 {
-        position: absolute;
-        width: 100px;
-        height: 49px;
-        left: 822px;
-        top: 700px;
-        color: rgb(0, 0, 0); /* цвет текста */
-        text-decoration: none; /* убирать подчёркивание у ссылок */
-        user-select: none; /* убирать выделение текста */
-        background: #86558D; /* фон кнопки */
-        padding: .7em 1.5em; /* отступ от текста */
-        outline: none; /* убирать контур в Mozilla */
-        border-radius: 25px;
-        
-      } 
-      .knopka2:hover { background: #86558D; } /* при наведении курсора мышки */
-      .knopka2:active { background: #86558D; } /* при нажатии */
+    
